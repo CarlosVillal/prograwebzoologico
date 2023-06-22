@@ -1,0 +1,2 @@
+C:\Users\USUARIO\Desktop\UNA\Funda WEB\ProyectoFinal\zooApi\obj\Debug\zooApi.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\UNA\Funda WEB\ProyectoFinal\zooApi\obj\Debug\zooApi.csproj.CoreCompileInputs.cache
